@@ -1,1 +1,1 @@
-# Internshala
+# SME Platform
